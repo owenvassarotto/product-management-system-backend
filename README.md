@@ -13,6 +13,10 @@ A full-stack product management application built with the PERN stack (PostgreSQ
 - API requests handled with Axios
 - Testing with Jest and Supertest
 
+## Live Demo
+
+Check out the live demo [here](https://product-management-system-pern.vercel.app/).
+
 ## Technologies Used
 
 ### Backend
@@ -97,4 +101,5 @@ http://localhost:4000/docs
 
 ## Screenshot
 
-![Project Screenshot](link-to-screenshot.png)
+![Screenshot 2024-06-18 at 21-51-06 Administrador de Prod](https://github.com/owenvassarotto/product-management-system-frontend/assets/110845731/9af36887-a919-4094-b5f0-d024b1534c91)
+
